@@ -12,9 +12,8 @@ Este é um exemplo de código para um bot do Discord usando a biblioteca discord
    ```bash
    pip install discord.py
    ```
-
 3.Obtenha o token do seu bot Discord. Você pode criar um bot e obter o token na página de desenvolvedor do Discord.
-  Substitua 'seu token aqui' pela sua chave de token na linha TOKEN = 'seu token aqui' do arquivo bot.py.
+Substitua 'seu token aqui' pela sua chave de token na linha TOKEN = 'seu token aqui' do arquivo bot.py.
 
 ## Uso
 1.Execute o bot executando o seguinte comando:
