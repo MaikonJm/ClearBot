@@ -18,15 +18,15 @@ Este é um exemplo de código para um bot do Discord usando a biblioteca discord
 
 ## Uso
 1.Execute o bot executando o seguinte comando:
-```bash
-python bot.py
+   ```bash
+   python bot.py
    ```
 2.O bot será iniciado e conectado ao Discord.
 
 ## Comandos
 !apagar quantidade: Apaga uma quantidade especificada de mensagens no canal atual.
 
-##Contribuição
+## Contribuição
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver melhorias a serem feitas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
